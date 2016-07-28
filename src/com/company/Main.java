@@ -10,5 +10,7 @@ public class Main {
         System.out.println("These are New Branch Changes 1");
         System.out.println("These are New Branch Changes 2");
         System.out.println("These are New Branch Changes 3");
+	System.out.println("What are the interesting points of this model?");
+//This is the branch for the interesting parts.
     }
 }
